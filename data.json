@@ -1,0 +1,523 @@
+[
+  {
+    "_index": "elasticsearch_index_ifdbmaster_elastic_search_index",
+    "_type": "_doc",
+    "_id": "entity:node/42852:en",
+    "_score": 2,
+    "_ignored": ["body.keyword"],
+    "_source": {
+      "_language": "en",
+      "author": [25762, 25434],
+      "author_label": ["Archer, Simon", "Abdel-Karim, Rifaat Ahmed"],
+      "body": [
+        "Authors Rifaat Archer and Volker bring international perspective the growing Islamic Insurance industry Drawing contributions from leading experts around the world they present comprehensive view the very issues governing the industry and its future direction top financial institutes around the world seem enter the lucrative Takaful markets this timely book offers crucial background information and advice invaluable for any serious player the market From the Inside Flap Takaful the means bringing the social and economic benefits modern insurance coverage form consistent with their religious beliefs Muslims and the merging economics many predominantly Muslims countries such the development takaful crucial both social inclusion non Muslim countries and economic development number countries with emerging market economies therefore only surprising that the takaful industry undergoing period rapid growth Yet the development takaful faces some formidable barriers that are largely due the complex structure takaful understandings and the unresolved issues associated with These issues contribute making the development appropriate legal and regulatory infrastructure well financial reporting corporate governance rating and other related matters problematic for the takaful industry Takaful Islamic Insurance Concepts and Regulatory Issues provides depth and comprehensive examination these issues contributed number leading experts the field The editors Simon Archer Rifaat Ahmed Abdel Karim and Volker Nienhaus who contributed four chapters are internationally recognized for their work Islamic finance This book constitutes essential reading for all those who seek solid understanding the takaful industry whether they industry regulators supervisors practitioners academics About the Author Professor Simon Archer Visiting Professor the ICMA Centre Henley Business School University Reading where teaches MSc program Investment Banking and Islamic Finance Previously was Professor Financial Management the University Surrey having been Midland Bank Professor Financial Sector Accounting the University Wales Bangor After studies Philosophy Politics and Economics Oxford University qualified Chartered Accountant with Arthur Andersen London and then moved Price Waterhouse Paris where became Partner Management Consultancy Services addition being editor and chapter contributor Islamic Finance Innovation and Growth and Islamic Finance The Regulatory Challenge published John Wiley Professor Archer author the CCH International Accounting Financial Reporting Standards Guide and the author considerable number academic papers international accounting and accounting finance and related issues Islamic financial institutions also supervises research students these areas has carried out number consultancy assignments for the Accounting and Auditing Organization for Islamic Financial Institutions the Islamic Financial Services Board and the World Bank issues connected with Islamic finance Professor Rifaat Ahmed Abdel Karim has been the Secretary General the Islamic Financial Services Board since 2002 Prior his current position Professor Rifaat was the Secretary General the Accounting and Auditing Organization for Islamic Financial Institutions post held for more than eight years was member the Standards Advisory Council the International Accounting Standards Board for two terms and currently member the Consultative Advisory Group the International Auditing and Assurance Standards Board Professor Rifaat was Visiting Professor Surrey University and Honorary Professor Monash University Australia currently Visiting Professor Reading University Professor Rifaat the author Business and Accounting Ethics Islam the Euromoney bestseller book Islamic Finance Innovation and Growth and Islamic Finance The Regulatory Challenge recently published John Wiley also the author many academic and professional papers accounting governance and finance issues Islamic banking and finance Volker Nienhaus was Professor Economics the German universities Trier 1989 90 and Bochum 1990 2004 before became President the University Marburg election period 2004 10 has published numerous books and articles Islamic economics and Islamic banking and finance since the 1980s was member several academic advisory boards public and private institutions Germany including the German Orient Foundation 1993 2006 and the Federal Ministry Economic Cooperation and Development 1998 2008 2006 was appointed member the Governing Council the International Centre for Education Islamic Finance INCEIF Kuala Lumpur also consultant the Islamic Financial Services Board governance issues takaful operations"
+      ],
+      "created": [1553605395],
+      "field_cis_publications": [""],
+      "field_country": ["AF"],
+      "field_image": [318],
+      "field_image_uri": [
+        "public://2019-03/Takaful-Islamic-Insurance_Concepts-and-Regulatory-Issues.jpg"
+      ],
+      "field_image_url": [
+        "/sites/default/files/2019-03/Takaful-Islamic-Insurance_Concepts-and-Regulatory-Issues.jpg"
+      ],
+      "field_place": ["N/A"],
+      "nid": [42852],
+      "publications": [16],
+      "publications_label": ["Books"],
+      "title": ["Takaful Islamic Insurance: Concepts and Regulatory Issues"],
+      "title_3": ["Archer, Simon", "Abdel-Karim, Rifaat Ahmed"],
+      "type": ["submit_for_work"],
+      "uid": [1],
+      "uuid": ["75bbe4b1-569a-42c2-a323-aa9a4553b0cc"]
+    }
+  },
+  {
+    "_index": "elasticsearch_index_ifdbmaster_elastic_search_index",
+    "_type": "_doc",
+    "_id": "entity:node/43149:en",
+    "_score": 2,
+    "_source": {
+      "_language": "en",
+      "author": [43322],
+      "author_label": ["Bah, Sulaiman T."],
+      "created": [1558786101],
+      "field_cis_publications": [""],
+      "field_cis_thesis": ["1"],
+      "field_country": ["QA"],
+      "name_1": ["Hamad Bin Khalifa University"],
+      "nid": [43149],
+      "publications": [18],
+      "publications_label": ["Thesis"],
+      "title": [
+        "Islamic Institutions in Qatar and Environemntal Awareness: A Descriptive Analysis"
+      ],
+      "title_3": ["Bah, Sulaiman T."],
+      "type": ["submit_for_work"],
+      "uid": [463],
+      "uuid": ["157251fe-3b0e-4504-8866-9fb1b5640b98"]
+    }
+  },
+  {
+    "_index": "elasticsearch_index_ifdbmaster_elastic_search_index",
+    "_type": "_doc",
+    "_id": "entity:node/43191:en",
+    "_score": 2,
+    "_source": {
+      "_language": "en",
+      "created": [1558788236],
+      "field_cis_publications": [""],
+      "field_cis_thesis": ["1"],
+      "nid": [43191],
+      "publications": [18],
+      "publications_label": ["Thesis"],
+      "title": [
+        "Islamic Microfinance for SMEs, and Reflection on Socio-economic Development: the Case of Chad"
+      ],
+      "type": ["submit_for_work"],
+      "uid": [463],
+      "uuid": ["a38eddd4-96fa-4512-af2e-6e9bfee6795b"]
+    }
+  },
+  {
+    "_index": "elasticsearch_index_ifdbmaster_elastic_search_index",
+    "_type": "_doc",
+    "_id": "entity:node/43196:en",
+    "_score": 2,
+    "_source": {
+      "_language": "en",
+      "created": [1558788433],
+      "field_cis_publications": [""],
+      "field_cis_thesis": ["1"],
+      "nid": [43196],
+      "publications": [18],
+      "publications_label": ["Thesis"],
+      "title": [
+        "Human Dignity in the Islamic Bioethical Discourse on HIV/AIDS"
+      ],
+      "type": ["submit_for_work"],
+      "uid": [463],
+      "uuid": ["c63be214-6469-4fb6-b059-ace9e1171af4"]
+    }
+  },
+  {
+    "_index": "elasticsearch_index_ifdbmaster_elastic_search_index",
+    "_type": "_doc",
+    "_id": "entity:node/43197:en",
+    "_score": 2,
+    "_source": {
+      "_language": "en",
+      "author": [43274],
+      "author_label": ["Jaser, Noor"],
+      "created": [1558788478],
+      "field_cis_publications": [""],
+      "field_cis_thesis": ["1"],
+      "field_country": ["QA"],
+      "name_1": ["Hamad Bin Khalifa University"],
+      "nid": [43197],
+      "publications": [18],
+      "publications_label": ["Thesis"],
+      "title": [
+        "Palliative Care: Revisiting Key Concepts in The Islamic Tradition"
+      ],
+      "title_3": ["Jaser, Noor"],
+      "type": ["submit_for_work"],
+      "uid": [463],
+      "uuid": ["96ab953c-fddc-4b8b-9ce5-7a964ecadccd"]
+    }
+  },
+  {
+    "_index": "elasticsearch_index_ifdbmaster_elastic_search_index",
+    "_type": "_doc",
+    "_id": "entity:node/43209:en",
+    "_score": 2,
+    "_source": {
+      "_language": "en",
+      "created": [1558788872],
+      "field_cis_publications": [""],
+      "field_cis_thesis": ["1"],
+      "nid": [43209],
+      "publications": [18],
+      "publications_label": ["Thesis"],
+      "title": [
+        "Models of Personal Finance in Islamic Bankling: An Attempt to Engineer Shari'ah-Compliant Instruments"
+      ],
+      "type": ["submit_for_work"],
+      "uid": [463],
+      "uuid": ["3d85d1e3-726e-4469-bb1e-faca2027a162"]
+    }
+  },
+  {
+    "_index": "elasticsearch_index_ifdbmaster_elastic_search_index",
+    "_type": "_doc",
+    "_id": "entity:node/43212:en",
+    "_score": 2,
+    "_source": {
+      "_language": "en",
+      "created": [1558788969],
+      "field_cis_publications": [""],
+      "field_cis_thesis": ["1"],
+      "nid": [43212],
+      "publications": [18],
+      "publications_label": ["Thesis"],
+      "title": [
+        "Developing Islamic financial products for financing solar energy with a special reference to Qatar and Algeria"
+      ],
+      "type": ["submit_for_work"],
+      "uid": [463],
+      "uuid": ["8057d481-b44c-4560-be3c-f63797baef41"]
+    }
+  },
+  {
+    "_index": "elasticsearch_index_ifdbmaster_elastic_search_index",
+    "_type": "_doc",
+    "_id": "entity:node/43218:en",
+    "_score": 2,
+    "_source": {
+      "_language": "en",
+      "created": [1558789151],
+      "field_cis_publications": [""],
+      "field_cis_thesis": ["1"],
+      "nid": [43218],
+      "publications": [18],
+      "publications_label": ["Thesis"],
+      "title": [
+        "Economic Empowerment through Islamic Microfinance - Application to Refugee Settings"
+      ],
+      "type": ["submit_for_work"],
+      "uid": [463],
+      "uuid": ["dc1dc121-3ee2-4605-a82f-2b2cacff729e"]
+    }
+  },
+  {
+    "_index": "elasticsearch_index_ifdbmaster_elastic_search_index",
+    "_type": "_doc",
+    "_id": "entity:node/43230:en",
+    "_score": 2,
+    "_source": {
+      "_language": "en",
+      "author": [43251],
+      "author_label": ["Al-Shaiba, Abdulla"],
+      "created": [1558789936],
+      "field_cis_publications": [""],
+      "field_cis_thesis": ["1"],
+      "field_country": ["QA"],
+      "name_1": ["Hamad Bin Khalifa University"],
+      "nid": [43230],
+      "publications": [18],
+      "publications_label": ["Thesis"],
+      "title": [
+        "Business and electronic commerce in Qatar, from an Islamic perspective, in alignment with ICT policy"
+      ],
+      "title_3": ["Al-Shaiba, Abdulla"],
+      "type": ["submit_for_work"],
+      "uid": [463],
+      "uuid": ["a282b3ef-0a10-4368-a3ae-cab65786285d"]
+    }
+  },
+  {
+    "_index": "elasticsearch_index_ifdbmaster_elastic_search_index",
+    "_type": "_doc",
+    "_id": "entity:node/43235:en",
+    "_score": 2,
+    "_source": {
+      "_language": "en",
+      "created": [1558790077],
+      "field_cis_publications": [""],
+      "field_cis_thesis": ["1"],
+      "nid": [43235],
+      "publications": [18],
+      "publications_label": ["Thesis"],
+      "title": [
+        "Challenges and opportunities of Islamic Finance in India with special reference to enhancing financial inclusion"
+      ],
+      "type": ["submit_for_work"],
+      "uid": [463],
+      "uuid": ["bd1bc035-f498-4937-b245-aff8f5109dba"]
+    }
+  },
+  {
+    "_index": "elasticsearch_index_ifdbmaster_elastic_search_index",
+    "_type": "_doc",
+    "_id": "entity:node/43242:en",
+    "_score": 2,
+    "_source": {
+      "_language": "en",
+      "created": [1558790307],
+      "field_cis_publications": [""],
+      "field_cis_thesis": ["1"],
+      "nid": [43242],
+      "publications": [18],
+      "publications_label": ["Thesis"],
+      "title": [
+        "Hiyal and their applications in contemporary Islamic financial contracts: towards setting acceptable norms"
+      ],
+      "type": ["submit_for_work"],
+      "uid": [463],
+      "uuid": ["1339954e-d7dc-4807-863a-8d9e32bcb293"]
+    }
+  },
+  {
+    "_index": "elasticsearch_index_ifdbmaster_elastic_search_index",
+    "_type": "_doc",
+    "_id": "entity:node/43393:en",
+    "_score": 2,
+    "_source": {
+      "_language": "en",
+      "author": [25946],
+      "author_label": ["Ahmed, Habib"],
+      "created": [1559141311],
+      "field_cis_publications": [""],
+      "field_cis_thesis": ["0"],
+      "field_country": ["GB"],
+      "journal": [35097],
+      "journal_label": [
+        "International Journal of Islamic and Middle Eastern Finance and Management"
+      ],
+      "nid": [43393],
+      "publications": [15],
+      "publications_label": ["Articles"],
+      "title": ["Inclusive Islamic Financial Planning: A Conceptual Framework"],
+      "title_2": [
+        "International Journal of Islamic and Middle Eastern Finance and Management"
+      ],
+      "title_3": ["Ahmed, Habib"],
+      "type": ["submit_for_work"],
+      "uid": [148],
+      "uuid": ["0d48e5a9-c0b3-47fb-8ba9-4eeb8362e344"]
+    }
+  },
+  {
+    "_index": "elasticsearch_index_ifdbmaster_elastic_search_index",
+    "_type": "_doc",
+    "_id": "entity:node/43394:en",
+    "_score": 2,
+    "_source": {
+      "_language": "en",
+      "author": [25946, 27716, 26321],
+      "author_label": ["Ahmed, Habib", "Asutay, Mehmet", "Wilson, Rodney"],
+      "created": [1559141856],
+      "field_cis_publications": [""],
+      "field_cis_thesis": ["0"],
+      "field_country": ["GB"],
+      "field_place": ["Edinburgh"],
+      "name_2": ["Edinburgh University Press"],
+      "nid": [43394],
+      "publications": [16],
+      "publications_label": ["Books"],
+      "title": [
+        "Islamic Banking and Financial Crisis: Reputation, Stability and Risks"
+      ],
+      "title_3": ["Ahmed, Habib", "Asutay, Mehmet", "Wilson, Rodney"],
+      "type": ["submit_for_work"],
+      "uid": [148],
+      "uuid": ["249d4c84-e743-4f5a-a6d1-08506919caea"]
+    }
+  },
+  {
+    "_index": "elasticsearch_index_ifdbmaster_elastic_search_index",
+    "_type": "_doc",
+    "_id": "entity:node/43397:en",
+    "_score": 2,
+    "_source": {
+      "_language": "en",
+      "author": [25946],
+      "author_label": ["Ahmed, Habib"],
+      "created": [1559153159],
+      "field_books": [46424],
+      "field_cis_publications": [""],
+      "field_cis_thesis": ["0"],
+      "field_country": ["GB"],
+      "field_place": ["London"],
+      "name_2": ["Routledge"],
+      "nid": [43397],
+      "publications": [17],
+      "publications_label": ["Book Chapters"],
+      "title": ["Organizational models of Islamic microfinance"],
+      "title_3": ["Ahmed, Habib"],
+      "type": ["submit_for_work"],
+      "uid": [148],
+      "uuid": ["4570a598-0d36-44f9-a469-598f917c0960"]
+    }
+  },
+  {
+    "_index": "elasticsearch_index_ifdbmaster_elastic_search_index",
+    "_type": "_doc",
+    "_id": "entity:node/43879:en",
+    "_score": 2,
+    "_ignored": ["body.keyword"],
+    "_source": {
+      "_language": "en",
+      "author": [27278],
+      "author_label": ["Tahir, Sayyid"],
+      "body": [
+        "Islamic finance literacy has become critical for the future growth the Islamic financial sector the twentyfirst century While multipronged approach called for the focus this paper the undergraduate programs Islamic banking and finance analyses the state teaching Islamic banking and finance the undergraduate level and proposes solutions for improving the undergraduate education Islamic banking and financeÂ"
+      ],
+      "created": [1566479286],
+      "field_cis_publications": [""],
+      "field_cis_thesis": ["0"],
+      "field_country": ["SA"],
+      "journal": [34688],
+      "journal_label": ["Islamic Economic Studies"],
+      "nid": [43879],
+      "publications": [15],
+      "publications_label": ["Articles"],
+      "title": ["Islamic Finance–Undergraduate Education"],
+      "title_2": ["Islamic Economic Studies"],
+      "title_3": ["Tahir, Sayyid"],
+      "type": ["submit_for_work"],
+      "uid": [0],
+      "uuid": ["1e40dbbb-79a0-4b05-9dd5-00398347f732"]
+    }
+  },
+  {
+    "_index": "elasticsearch_index_ifdbmaster_elastic_search_index",
+    "_type": "_doc",
+    "_id": "entity:node/43885:en",
+    "_score": 2,
+    "_ignored": ["body.keyword"],
+    "_source": {
+      "_language": "en",
+      "author": [26407],
+      "author_label": ["Institute of Islamic Banking and Insurance"],
+      "body": [
+        "The Islamic finance industry growing rapidly result the demand for education and professional development growing rapidly also Specifically there need for qualified Shari scholars and staff result the Institute Islamic Banking and Insurance has entered into Memorandum Understanding MoU with Metropolitan Consulting SAE provide education and training within Egypt Islamic finance industry"
+      ],
+      "created": [1566479286],
+      "field_cis_publications": [""],
+      "field_cis_thesis": ["0"],
+      "field_country": ["GB"],
+      "journal": [34643],
+      "journal_label": ["New Horizon"],
+      "nid": [43885],
+      "publications": [15],
+      "publications_label": ["Articles"],
+      "title": ["Collaboration Boosts Islamic Finance Education in Egypt"],
+      "title_2": ["New Horizon"],
+      "title_3": ["Institute of Islamic Banking and Insurance"],
+      "type": ["submit_for_work"],
+      "uid": [0],
+      "uuid": ["f72958ee-06c2-4bb1-b49d-c1050ff80d23"]
+    }
+  },
+  {
+    "_index": "elasticsearch_index_ifdbmaster_elastic_search_index",
+    "_type": "_doc",
+    "_id": "entity:node/43887:en",
+    "_score": 2,
+    "_ignored": ["body.keyword"],
+    "_source": {
+      "_language": "en",
+      "author": [30066, 26763],
+      "author_label": ["Lavoie David R.", "Moghul, Umar F."],
+      "body": [
+        "The contemporary Islamic finance market has passed through initial developmental stages evidencing its possibility well its viability Before the industry can evidence the next stage durability and certainly before can offer solutions conventional finance number additional steps must taken including regulatory and accounting improvements and taxation equivalence1 This article however focused another such step the challenge Islamic finance education developing faculty who educate legal practitioners and preparing legal practitioners themselves"
+      ],
+      "created": [1566479286],
+      "field_cis_publications": [""],
+      "field_cis_thesis": ["0"],
+      "field_country": ["US"],
+      "journal": [35147],
+      "journal_label": ["Albany Government Law Review"],
+      "nid": [43887],
+      "publications": [15],
+      "publications_label": ["Articles"],
+      "title": [
+        "Redistributive Pedagogy: A Case Study in Islamic Finance Education and Student-Centered Learning"
+      ],
+      "title_2": ["Albany Government Law Review"],
+      "title_3": ["Lavoie David R.", "Moghul, Umar F."],
+      "type": ["submit_for_work"],
+      "uid": [0],
+      "uuid": ["4239b674-7a7e-4882-b83d-51947a9852da"]
+    }
+  },
+  {
+    "_index": "elasticsearch_index_ifdbmaster_elastic_search_index",
+    "_type": "_doc",
+    "_id": "entity:node/43891:en",
+    "_score": 2,
+    "_ignored": ["body.keyword"],
+    "_source": {
+      "_language": "en",
+      "author": [29917],
+      "author_label": ["Bassens David"],
+      "body": [
+        "This paper sets out review major debates the field geographies emerging markets Observing lingering implicit assumptions about the undirectionality behind the emergence discourses and practices the paper argues that contemporary processes SouthSouth and SouthNorth investment call for decentredâ view integration Such decentred framework allows research whether geographical shifts the world global finance indeed imply fundamental shift the nature its practices this paper therefore explore the case Islamic securitization the Gulf Region which constitutes veritable geoeconomic hinge shifting global economy Here argue bilateral negotiation processes take place between vectors global finance such investment banks the one hand and client firms and Islamic banks the other hand order find viable contextsensitive financing solution While this case acknowledges the blossoming plurality"
+      ],
+      "created": [1566479286],
+      "field_cis_publications": [""],
+      "field_cis_thesis": ["0"],
+      "field_country": ["US"],
+      "journal": [35150],
+      "journal_label": ["Geography Compass"],
+      "nid": [43891],
+      "publications": [15],
+      "publications_label": ["Articles"],
+      "title": [
+        "Emerging Markets in a Shifting Global Financial Architecture: The Case of Islamic Securitization in the Gulf Region"
+      ],
+      "title_2": ["Geography Compass"],
+      "title_3": ["Bassens David"],
+      "type": ["submit_for_work"],
+      "uid": [0],
+      "uuid": ["cc9cd182-b0ed-4502-8813-39ae44a3f418"]
+    }
+  },
+  {
+    "_index": "elasticsearch_index_ifdbmaster_elastic_search_index",
+    "_type": "_doc",
+    "_id": "entity:node/43895:en",
+    "_score": 2,
+    "_ignored": ["body.keyword"],
+    "_source": {
+      "_language": "en",
+      "author": [27922, 30036, 30038],
+      "author_label": ["Hesse, Heiko", "Jobst Andreas A", "Juan A. Sole"],
+      "body": [
+        "After the collapse the securities market and the ensuing market turbulence cast serious doubts this economic proposition unbundling transforming and redistributing credit risk via structured finance instruments This article reviews conventional securities and makes case for Islamic securities"
+      ],
+      "created": [1566479286],
+      "field_cis_publications": [""],
+      "field_cis_thesis": ["0"],
+      "journal": [35148],
+      "journal_label": ["EconoMonitor"],
+      "nid": [43895],
+      "publications": [15],
+      "publications_label": ["Articles"],
+      "title": ["Islamic Securitization – The Right Way Forward"],
+      "title_2": ["EconoMonitor"],
+      "title_3": ["Hesse, Heiko", "Jobst Andreas A", "Juan A. Sole"],
+      "type": ["submit_for_work"],
+      "uid": [0],
+      "uuid": ["29183564-56f7-455a-8390-73264d738994"]
+    }
+  },
+  {
+    "_index": "elasticsearch_index_ifdbmaster_elastic_search_index",
+    "_type": "_doc",
+    "_id": "entity:node/43906:en",
+    "_score": 2,
+    "_source": {
+      "_language": "en",
+      "author": [30045, 26301],
+      "author_label": ["Kayed Rasem N", "Hassan, M. Kabir"],
+      "created": [1566479286],
+      "field_cis_publications": [""],
+      "field_cis_thesis": ["0"],
+      "field_country": ["US"],
+      "journal": [34704],
+      "journal_label": ["Thunderbird International Business Review"],
+      "nid": [43906],
+      "publications": [15],
+      "publications_label": ["Articles"],
+      "title": ["The global financial crisis and Islamic finance"],
+      "title_2": ["Thunderbird International Business Review"],
+      "title_3": ["Kayed Rasem N", "Hassan, M. Kabir"],
+      "type": ["submit_for_work"],
+      "uid": [0],
+      "uuid": ["3e17bada-ecce-4d84-896f-8814f6859e5a"]
+    }
+  }
+]

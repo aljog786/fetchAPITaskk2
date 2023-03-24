@@ -1,0 +1,7 @@
+[
+  { "key": "Articles", "doc_count": 1215 },
+  { "key": "Books", "doc_count": 944 },
+  { "key": "Thesis", "doc_count": 879 },
+  { "key": "Book Chapters", "doc_count": 510 },
+  { "key": "Conferences", "doc_count": 502 }
+]
